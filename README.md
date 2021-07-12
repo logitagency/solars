@@ -1,2 +1,4 @@
-# solars
- Solar farm output prediction and anomaly detection
+# Solar plants
+ 
+ Solar farm output prediction and anomaly detection.
+
